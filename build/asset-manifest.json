@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.c1ad9edf.chunk.js",
+    "main.js.map": "/static/js/main.c1ad9edf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1d3f20a8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1d3f20a8.js.map",
+    "static/js/2.b26cb37e.chunk.js": "/static/js/2.b26cb37e.chunk.js",
+    "static/js/2.b26cb37e.chunk.js.map": "/static/js/2.b26cb37e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.b26cb37e.chunk.js.LICENSE.txt": "/static/js/2.b26cb37e.chunk.js.LICENSE.txt",
+    "static/media/featured2.a8a58113.jpg": "/static/media/featured2.a8a58113.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d3f20a8.js",
+    "static/js/2.b26cb37e.chunk.js",
+    "static/js/main.c1ad9edf.chunk.js"
+  ]
+}
